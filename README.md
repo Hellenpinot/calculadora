@@ -10,8 +10,6 @@
 
 1.  Integrantes del Equipo
 
-Equipo: NerdDigital
-
 Integrantes:
 
 Hellen Pinot Friz. https://github.com/Hellenpinot
