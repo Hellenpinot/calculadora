@@ -14,12 +14,7 @@ Equipo: NerdDigital
 
 Integrantes:
 
-- Manuel Fernando Pinot Friz https://github.com/Manpif/calculadora.frontend 
-- Soledad Manríquez Godoy https://github.com/soledad-manriquez/calculadora.frontend
-- Gonzalo Alonzo
-- Nehemias Marvic Muñoz Monsalves https://github.com/Nehemias-Munoz/calculadora.frontend
-
----
+Hellen Pinot Friz. https://github.com/Hellenpinot
 
 ### 2. Información General <a name="Información-General"></a>
 
